@@ -1,5 +1,5 @@
 # Get started :3
-### just use yarn install in main directory
+### just use yarn install in main directory and enter the firebase project api in src/firebase/firebase.utils.js
 In the project directory, you can run:
 
 ### `yarn start`

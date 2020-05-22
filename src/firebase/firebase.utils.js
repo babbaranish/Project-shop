@@ -3,7 +3,7 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const config = {
-  apiKey: "AIzaSyDcvytveVt5G1U8-Mm53Yc1gUskiOECoMc",
+  apiKey: "enter-orject-api-key",
   authDomain: "shop-project-db-6a578.firebaseapp.com",
   databaseURL: "https://shop-project-db-6a578.firebaseio.com",
   projectId: "shop-project-db-6a578",

@@ -2,6 +2,8 @@
 ### just use yarn install in main directory and enter the firebase project api in src/firebase/firebase.utils.js
 In the project directory, you can run:
 
+##[Shop Website](https://shop69-hehe.herokuapp.com/)
+
 ### `yarn start`
 
 Runs the app in the development mode.<br />

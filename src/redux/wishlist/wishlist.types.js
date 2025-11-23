@@ -1,0 +1,7 @@
+const WishlistActionTypes = {
+  ADD_TO_WISHLIST: 'ADD_TO_WISHLIST',
+  REMOVE_FROM_WISHLIST: 'REMOVE_FROM_WISHLIST',
+  TOGGLE_WISHLIST_HIDDEN: 'TOGGLE_WISHLIST_HIDDEN'
+};
+
+export default WishlistActionTypes;

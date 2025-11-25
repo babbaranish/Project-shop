@@ -9,6 +9,9 @@ import HomePage from './pages/homepage/homepage.Component';
 import ShopPage from './pages/shop/shop.component';
 import SignInAndSignUpPage from './pages/sign-in-and-sign-up/sign-in-and-sign-up.component';
 import CheckoutPage from './pages/checkout/checkout.component';
+import WishlistPage from './pages/wishlist/wishlist.component';
+import ProfilePage from './pages/profile/profile.component';
+import OrderHistory from './pages/order-history/order-history.component';
 
 import Header from './components/header/header.component';
 
@@ -52,6 +55,9 @@ class App extends React.Component {
           <Route exact path='/' component={HomePage} />
           <Route path='/shop' component={ShopPage} />
           <Route exact path='/checkout' component={CheckoutPage} />
+          <Route exact path='/wishlist' component={WishlistPage} />
+          <Route exact path='/profile' component={ProfilePage} />
+          <Route exact path='/orders' component={OrderHistory} />
           <Route
             exact
             path='/signin'
